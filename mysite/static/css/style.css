@@ -1,0 +1,7 @@
+body{
+    background-color: #ccc;
+}
+
+.flexible-image {
+    max-width: 100%
+}
